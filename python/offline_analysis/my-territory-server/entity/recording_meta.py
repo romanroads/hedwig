@@ -1,0 +1,20 @@
+# !/usr/bin/python
+# coding=utf-8
+
+ID = 'id'
+FRAME_RATE = 'frameRate'
+LOCATION_ID = 'locationId'
+SPEED_LIMIT = 'speedLimit'
+MONTH = 'month'
+WEEK_DAY = 'weekDay'
+START_TIME = 'startTime'
+DURATION = 'duration'
+TOTAL_DRIVEN_DISTANCE = 'totalDrivenDistance'
+TOTAL_DRIVEN_TIME = 'totalDrivenTime'
+NUM_VEHICLES = 'numVehicles'
+NUM_CARS = 'numCars'
+NUM_TRUCKS = 'numTrucks'
+UPPER_LANE_MARKINGS = 'upperLaneMarkings'
+LOWER_LANE_MARKINGS = 'lowerLaneMarkings'
+FRAME_WIDTH = 'frameWidth'
+FRAME_HEIGHT = 'frameHeight'
