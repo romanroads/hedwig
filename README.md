@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="artifacts/ROMAN_ROADS_LOGO_COLOR.png" width="500" title="ROMAN ROADS, INC.">
+</p>
+
+
 # Project Hedwig
 
 ## Detection and tracking road agents using drone recorded video data
